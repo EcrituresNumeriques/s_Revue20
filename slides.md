@@ -1,23 +1,14 @@
-## Stylo
+## Revue 2.0
 
-#### éditeur sémantique pour les sciences humaines
-
-
-<!-- ##### remettre l'édition scientifique dans les mains de l'auteur -->
-
-> Dans l'environnement numérique,  
-> écrire = écrire + structurer.
+#### journées de lancement
 
 &nbsp;
 
 ---
 
-Nicolas Sauret, Marcello Vitali-Rosati
-
 <!-- .element: style="font-size:1.5rem" -->
 
-_Journées Médici_  
-18-20 sept. 2018 | Avignon
+4 et 5 oct. 2018 | Montréal
 
 <!-- .element: style="font-size:1.5rem" -->
 
@@ -25,150 +16,107 @@ _Journées Médici_
 
 ===
 
-
 %%%%%%%%%%%%%%%%%%SECTIONmoveRight%%%%%%%%%%%%%%%%%%
-<!-- .slide: data-background-image="img/" data-background-size="cover"-->
-<!--  .slide: class="hover"-->
 
-### Philosophie
-
-<i class="fa fa-arrow-right"></i> Mettre à profit les compétences sémantiques de l'auteur
-
-<!-- .element: style="font-size:1.7rem" -->
-
-<i class="fa fa-arrow-right"></i> Redonner à l'auteur la maîtrise de la structure et de la sémantique du texte.
-
-<!-- .element: style="font-size:1.7rem" -->
-
-&nbsp;
-
-Vers un éditeur :
-
-<!-- .element: style="font-size:1.7rem; text-align:left; padding-left:1rem;" -->
-
-- plus simple : interface claire, moins d'options, moins de fonctions
-- plus riche : balisage, gestion bibliographique, métadonnées, exports multiples
-- sémantique : WYSIWYM
-
-<!-- .element: style="font-size:1.7rem" -->
-
-§§§§§SLIDEmoveDown§§§§§
-<!-- .slide: data-background-image="img/" data-background-size="cover"-->
-<!--  .slide: class="hover"-->
-
-### à propos de Stylo
-
-&nbsp;
-
-- Un projet de la **Chaire sur les écritures numériques**
-- Avec le soutien d'**Erudit**
-- Conception et développement :  
-Arthur Juchereau, Servanne Monjour, Nicolas Sauret, Marcello Vitali-Rosati
-
-<!-- .element: style="font-size:0.8em;" -->
-
-
-
----
-
-![logo CRCEN](img/LogoENDT10-2016.png) <!-- .element: class="logo" style="width:30%; background-color:ghostwhite;padding: 4px" -->
-![logo Erudit](img/erudit-logotype-blanc.png) <!-- .element: class="logo" style="width:17%;padding: 1px" -->
-
-
-
-%%%%%%%%%%%%%%%%%%SECTIONmoveRight%%%%%%%%%%%%%%%%%%
-<!-- .slide: data-background-image="img/" data-background-size="cover"-->
-<!--  .slide: class="hover"-->
-
-### un éditeur complet
-
-- Workflow fluide de l'auteur à l'éditeur
-- WYSIWYM <i class="fa fa-arrow-right"></i> _est affiché ce qui est signifié_
-- Plusieurs systèmes de balisage
-- Plusieurs outputs <i class="fa fa-arrow-right"></i> _xml TEI, html 5, xhtml, tex, pdf, xml Erudit, ..._
-- Publications multiples sans perte d'information <i class="fa fa-arrow-right"></i> _CMS, Érudit, InDesign_
-- Environnement soutenable <i class="fa fa-arrow-right"></i> _chaîne modulable basée sur des outils et formats standards_
-
-<!-- .element: style="font-size:0.8em;" -->
+# Plénière - introduction
 
 
 §§§§§SLIDEmoveDown§§§§§
-<!-- .slide: data-background-image="img/" data-background-size="cover"-->
-<!--  .slide: class="hover"-->
 
-#### Une application modulaire
+## Présentation
 
-<i class="fa fa-arrow-right"></i> 3 modules principaux + modules techniques :
+§§§§§SLIDEmoveDown§§§§§
 
-<!-- .element: style="font-size:0.8em;" -->
+## Objectifs
 
-1. **Éditeur de métadonnées**
-  - yaml <!-- .element: style="color:Darkorange;" -->
-  - DC, RDFa, Foaf,
-    ScholarlyArticle, Google Scholar, Prism schema <!-- .element: style="color:Darkorange;" -->
-  - Vocabulaire contrôlé
-  - Alignement avec des autorités (Rameau, Wikidata, LOC)
-  - Via l'API rechercheisidore (Huma-num)
-2. **Éditeur de texte** avec balisage interne
-  - Markdown enrichi <!-- .element: style="color:Darkorange;" -->
-  - autres ?
-3. **Gestion bibliographique**
-  - BibTeX <!-- .element: style="color:Darkorange;" -->
-  - Api Zotero
+§§§§§SLIDEmoveDown§§§§§
 
-<!-- .element: style="font-size:0.6em; width:55%; float:left;" -->
+## Phases
 
+§§§§§SLIDEmoveDown§§§§§
 
-1. **Conversion**
-  - pandoc <!-- .element: style="color:Darkorange;" --> (vers html, LateX, pdf)
-  - XSLT <!-- .element: style="color:Darkorange;" --> (vers TEI-LOD, Erudit)
-2. **Versioning**
-  - git <!-- .element: style="color:Darkorange;" -->
-  - comparateur de versions
-3. **API**
+## Calendrier
 
+§§§§§SLIDEmoveDown§§§§§
 
-<!-- .element: style="font-size:0.6em; width:35%; float:left;padding-left:2rem;border:1px,solid,white;" -->
+## Déroulé des journées
 
-===
+- schedule
+- objectif de ateliers
+
+§§§§§SLIDEmoveDown§§§§§
+
+## Présentation des revues
+
+1. Cybergéo (Christine Kosmopoulos)
+2. Études Françaises (Jean-Benoit Cormier-Landry)
+3. Intermédialités (Marion Froger et Maude Trottier)
+4. Itinéraires (François-Xavier Mas)
+5. Mémoires du livre (Anthony Glinoer)
+6. Revue internationale de photolittérature (Servanne Monjour)
+
+§§§§§SLIDEmoveDown§§§§§
+
+## Présentation des institutions
+
+1. OpenEdition (Elodie Faath)
+2. Huma-num (Stéphane Pouyllau)
+3. Érudit (Tanja Niemann et Paquin)
+
+§§§§§SLIDEmoveDown§§§§§
+
+## Présentation des chercheurs
+
+1. Maude Bonenfant (Université du Québec à Montréal)
+2. Renée Bourassa (Université Laval)
+3. Susan Brown (University of Guelph)
+4. Joana Casenave (Université de Lille)
+5. Emmanuel Chateau-Dutier (Université de Montréal)
+6. Constance Crompton (Université d’Ottawa)
+7. Juliette De Maeyer (Université de Montréal)
+8. Michael Eberle-Sinatra (Université de Montréal)
+9. Bertrand Gervais (Université du Québec à Montréal)
+10. Vincent Larivière (Université de Montréal)
+11. Pierre Lévy (Université d’Ottawa)
+12. Benoît Melançon (Université de Montréal)
+13. Servanne Monjour (McGill University)
+14. Stéfan Sinclair (McGill University)
 
 %%%%%%%%%%%%%%%%%%SECTIONmoveRight%%%%%%%%%%%%%%%%%%
-<!-- .slide: data-background-image="img/" data-background-size="cover"-->
-<!--  .slide: class="hover"-->
 
-### Démo
+# Atelier 1 - Production
 
-<i class="fa fa-arrow-right"></i> écrire : [stylo.ecrituresnumeriques.ca](http://stylo.ecrituresnumeriques.ca)
-
-<!-- .element: style="font-size:0.9em;" -->
-
-<i class="fa fa-arrow-right"></i> premiers pas : [stylo-doc.ecrituresnumerique.ca](http://stylo-doc.ecrituresnumerique.ca)
-
-<!-- .element: style="font-size:0.9em;" -->
+§§§§§SLIDEmoveDown§§§§§
 
 %%%%%%%%%%%%%%%%%%SECTIONmoveRight%%%%%%%%%%%%%%%%%%
-<!-- .slide: data-background-image="img/" data-background-size="cover"-->
-<!--  .slide: class="hover"-->
 
-### Mise en oeuvre
+# Atelier 2 - Diffusion
 
-- Stylo édite actuellement la revue Sens Public |  [sens-public.org](http://sens-public.org)
-- Stylo sera déployé auprès de six revues pilotes dans le cadre du projet Partenariat Revue 2.0 (Open Edition, Erudit, Human-num) | [revue20.org](http://revue20.org)
+§§§§§SLIDEmoveDown§§§§§
 
-<!-- .element: style="font-size:0.7em;" -->
+%%%%%%%%%%%%%%%%%%SECTIONmoveRight%%%%%%%%%%%%%%%%%%
 
-<i class="fa fa-arrow-right"></i> besoin de vos retours d'usage !
+# Atelier 3 - présentation des outils
 
-<!-- .element: style="font-size:0.7em;" -->
+§§§§§SLIDEmoveDown§§§§§
 
-&nbsp;
+%%%%%%%%%%%%%%%%%%SECTIONmoveRight%%%%%%%%%%%%%%%%%%
 
-**Roadmap**: synchronisation zotero, synchronisation git, module éditeur interchangeable, ergonomie éditeur, gestion simplifié d'image, version standalone
+# Atelier 4 - observation des pratiques
 
-<!-- .element: style="font-size:0.6em;" -->
+§§§§§SLIDEmoveDown§§§§§
 
+%%%%%%%%%%%%%%%%%%SECTIONmoveRight%%%%%%%%%%%%%%%%%%
 
+# Atelier 5 - brainstorm séminaire
 
+§§§§§SLIDEmoveDown§§§§§
+
+%%%%%%%%%%%%%%%%%%SECTIONmoveRight%%%%%%%%%%%%%%%%%%
+
+# Conclusion
+
+§§§§§SLIDEmoveDown§§§§§
 
 
 %%%%%%%%%%%%%%%%%%SECTIONmoveRight%%%%%%%%%%%%%%%%%%
@@ -176,18 +124,27 @@ Arthur Juchereau, Servanne Monjour, Nicolas Sauret, Marcello Vitali-Rosati
 ### Merci !
 
 
-<i class="fa fa-arrow-right"></i> présentation : [ecrituresnumeriques.github.io/s_StyloMedici](https://ecrituresnumeriques.github.io/s_StyloMedici)
+<i class="fa fa-arrow-right"></i> présentation : [ecrituresnumeriques.github.io/s_Revue20](https://ecrituresnumeriques.github.io/s_StyloMedici)
 
 <!-- .element: style="font-size:0.7em;" -->
 
-<i class="fa fa-arrow-right"></i> contribuer : [github.com/EcrituresNumeriques/stylo/](https://github.com/EcrituresNumeriques/stylo/)
-
-<!-- .element: style="font-size:0.7em;" -->
-
-<i class="fa fa-arrow-right"></i> écrire : [stylo.ecrituresnumeriques.ca](http://stylo.ecrituresnumeriques.ca/)
-
-<!-- .element: style="font-size:0.7em;" -->
 
 ---
 ![logo CRCEN](img/LogoENDT10-2016.png) <!-- .element: class="logo" style="width:25%; background-color:ghostwhite;padding: 7px" -->
 ![CC-BY-SA](http://i.creativecommons.org/l/by-sa/4.0/88x31.png)
+
+===
+
+.slide: data-background-image="img/" data-background-size="cover"
+.slide: class="hover"
+
+<!-- .element: style="font-size:1.7rem" -->
+<!-- .element: style="font-size:1.7rem; text-align:left; padding-left:1rem;" -->
+
+pour baliser en inline
+- yaml <!-- .element: style="color:Darkorange;" -->
+
+
+pour faire deux colonnes
+<!-- .element: style="font-size:0.6em; width:55%; float:left;" -->
+<!-- .element: style="font-size:0.6em; width:35%; float:left;padding-left:2rem;border:1px,solid,white;" -->
