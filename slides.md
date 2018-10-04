@@ -4,15 +4,16 @@
 
 &nbsp;
 
----
-
-<!-- .element: style="font-size:1.5rem" -->
-
 4 et 5 oct. 2018 | Montréal
 
+---
+
+
+
 <!-- .element: style="font-size:1.5rem" -->
 
-![logo CRCEN](img/LogoENDT10-2016.png) <!-- .element: class="logo" style="width:20%; background-color:ghostwhite;padding: 4px" --> ![CC-BY-SA](http://i.creativecommons.org/l/by-sa/4.0/88x31.png)
+![logo CRSH](img/crsh.png) <!-- .element: class="logo" style="height:50px; background-color:ghostwhite;padding: 4px" -->
+![logo CRCEN](img/LogoENDT10-2016.png) <!-- .element: class="logo" style="height:50px; background-color:ghostwhite;padding: 4px" --> <br/>![CC-BY-SA](http://i.creativecommons.org/l/by-sa/4.0/88x31.png)
 
 ===
 
@@ -139,7 +140,17 @@ ce n'est pas qu'une chose technique, ni qu'une chose savante, il faut mettre ens
 
 
 §§§§§SLIDEmoveDown§§§§§
-<!-- .slide: data-background-image="img/CalendrierActivités2.png" data-background-size="contain" -->
+### Planning
+
+|périodes | phases|
+|:--|:--|
+|oct. 2018 | Lancement|
+|oct. 2018 - mars 2019 | Observation des pratiques|
+|mars-sept.  2019 | Conception   |
+|sept. 2019 - sept 2020  |Expérimentations   |
+|sept. 2020 - sept 2021  |Finalisations   |
+
+
 
 
 ===
@@ -192,6 +203,8 @@ objectif : on démarre la recherche aujourd'hui
 4. Itinéraires (François-Xavier Mas)
 5. Mémoires du livre (Anthony Glinoer)
 6. Revue internationale de photolittérature (Servanne Monjour)
+7. Captures (Bertrand Gervais)
+8. Humanités Numériques (Emmanuel Chateau-Dûtier)
 
 <!-- .element: style="font-size:1.7rem" -->
 
