@@ -246,9 +246,11 @@ objectif : on démarre la recherche aujourd'hui
 
 §§§§§SLIDEmoveDown§§§§§
 
-constantes :
+### quelques axes..
 
-- légitimation
+- ruptures et continuités dans vos chaînes éditoriales
+- rôles et fonctions
+- internet, ce postier
 
 
 %%%%%%%%%%%%%%%%%%SECTIONmoveRight%%%%%%%%%%%%%%%%%%
@@ -256,15 +258,29 @@ constantes :
 ## Atelier.2 Diffusion
 <!-- .element: style="width:55%; font-size:1.2em; float:left;" -->
 
-- Objectifs de l'atelier
-- Pistes de discussion
+- Présentation des chaines de traitement
 - Discussion
 
 <!-- .element: style="font-size:0.8em; width:35%; float:left;padding-left:2rem;border-left:1px,solid,white;" -->
 
 ===
 
+
+
 §§§§§SLIDEmoveDown§§§§§
+
+### quelques axes..
+
+- structuration et pérennité
+- continuité production-diffusion
+- enrichissement et agrégation
+
+
+===
+
+- la question de la structuration des contenus et les enjeux de pérennité (qualité du document)
+- la question de la continuité entre les chaines de production et de diffusion : pour le moment rupture flagrante, comment reconstruire une continuité.
+- la question des données, de leur richesse : force des schémas actuels, qu'est ce qui leur manque, comment les améliorer
 
 %%%%%%%%%%%%%%%%%%SECTIONmoveRight%%%%%%%%%%%%%%%%%%
 
