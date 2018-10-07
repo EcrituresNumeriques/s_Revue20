@@ -313,7 +313,6 @@ objectif : on démarre la recherche aujourd'hui
 %%%%%%%%%%%%%%%%%%SECTIONmoveRight%%%%%%%%%%%%%%%%%%
 
 ## Atelier.4 observation des pratiques
-<!-- .element: style="width:50%; font-size:1.2em; float:left;" -->
 
 §§§§§SLIDEmoveDown§§§§§
 
